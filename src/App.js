@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Routes>
         {/* <Route path="/" element={<Login setProfile_pic={setProfile_pic} />} /> */}
-        <Route path="/" element={<Main profile_pic={profile_pic} />} />
+        <Route path="/" element={<Main profile_pic="/Pro picture SMALL.jpg"/>} />
       </Routes>
     </div>
   );
