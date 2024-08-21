@@ -22,7 +22,7 @@ const Navbar = (props) => {
   return (
     <nav className={`nav_bar ${scroll ? "scroll" : ""}`}>
       <div className="left_nav_bar">
-        <h1>Netlifxy</h1>
+        <h1>Netflixy</h1>
         <ul>
           <li>Home</li>
           <li>Movies</li>
